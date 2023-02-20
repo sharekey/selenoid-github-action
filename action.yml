@@ -13,4 +13,3 @@ branding:
 runs:
   using: 'node16'
   main: 'index.js'
-  
